@@ -1,0 +1,1 @@
+pybot -v phone:Htc620 -V env_bcp.yaml  CFB.robot
